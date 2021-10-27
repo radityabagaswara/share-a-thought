@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "Share A Thought",
-	"webDir": "build",
-	"bundledWebRuntime": false
+  "appId": "me.raditya.sat",
+  "appName": "Share A Thought",
+  "webDir": "build",
+  "bundledWebRuntime": false
 }
