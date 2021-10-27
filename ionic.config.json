@@ -1,0 +1,7 @@
+{
+  "name": "Share A Thought",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

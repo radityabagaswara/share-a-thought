@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Share A Thought",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
