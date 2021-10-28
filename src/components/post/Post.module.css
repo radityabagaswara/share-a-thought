@@ -1,0 +1,28 @@
+.card {
+  background: linear-gradient(to right, #4a00e0, #6022dd);
+
+  color: white;
+  font-weight: bold;
+  text-align: justify;
+}
+
+.contentText {
+  border-bottom: 1px solid #ddd;
+}
+
+.contentText p {
+  padding-bottom: 0.5rem;
+}
+
+.avatar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+  padding-top: 10px;
+}
+
+.avatarImage {
+  width: 40px;
+  height: 40px;
+}
